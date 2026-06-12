@@ -24,14 +24,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ibrahim-agboola&show_icons=true&theme=default" />
-</p>
-
----
-
 ## 📫 Let's Connect
 
 I'm always open to discussing data projects, analytics opportunities, or collaboration.
